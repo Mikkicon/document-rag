@@ -1,0 +1,39 @@
+
+Careers at Apple
+Work at Apple Life at Apple Profile Sign In Search Jobs at Apple
+Machine Learning Engineer - Strategic Data Solutions
+Austin, Texas, United States
+Software and Services
+Add to Favorites Machine Learning Engineer - Strategic Data Solutions
+Share Machine Learning Engineer - Strategic Data Solutions
+Back to search results
+Summary
+Posted: Oct 14, 2024
+Role Number:200526272
+Do you love the challenge of solving complex problems that can have a direct and meaningful impact on the company? Do you want to be part of a supportive team that’s constantly learning and having fun while solving tough business problems? We’d love to talk to you if you do!
+
+At Apple, new ideas have a way of quickly becoming outstanding products, services, and customer experiences. Bring passion and dedication to your career, and there's no telling what you could accomplish!
+Strategic Data Solutions empowers internal partners and optimizes the customer experience by delivering data-driven solutions that mitigate fraud, improve security, and optimize efficiency. Our work touches all parts of Apple, from manufacturing to fulfillment to apps and services. The enormous scale and complexity of the problems and our data present exciting opportunities for pushing the limits of existing data science methods.
+
+As an SDS machine learning engineer, you will work with teams across Apple, using data analysis and predictive modeling techniques to define, build, deploy, and maintain end-to-end operational solutions that have a direct and measurable impact to the company and our customers.
+
+Our commitment to you: We will provide challenging problems that will engage your curiosity. We will provide an organizational culture that values collaboration, problem-solving, and work-life balance. We will provide mentorship to further develop your technical and leadership skills.
+Description
+• Engage with stakeholders to translate ambiguous business problems into technical solutions, including finding opportunities, breaking them into solvable segments, defining requirements, assessing level of effort, etc
+• Work cooperatively to design data science-driven solutions, balancing the utility of tried-and-true techniques and the benefits of custom solutions
+• Collaborate with technical partners to implement robust real-time and batch decisioning in production
+• Create reporting and monitor decisioning quality to maintain operational and business metric health
+• Investigate trends, assess threat impact, and respond with agile logic changes
+• Communicate with stakeholders with varying technical backgrounds and business priorities about your work
+• Share what you're learning about novel technologies and methods (in data science, machine learning, data engineering, and software engineering, etc) to improve your team's overall technical capabilities
+Minimum Qualifications
+Graduate degree with research/work experience utilizing data science techniques (including but not limited to Computer Science, Statistics, Political Science, Biology, etc) or Bachelor’s degree with equivalent experience
+Practical experience (acquired through work, independent projects, or academic research) in deploying machine learning solutions to answer real-world questions
+Practical experience with implementing data science-related applications in a programming language such as Python, Scala, or Java
+Preferred Qualifications
+Theoretical understanding of machine learning algorithms and their relative strengths and weaknesses
+Ability to use a querying language such as SQL to extract insights from data
+Demonstrate ability to think holistically about system structures and interactions in order to anticipate technical, business, and customer impact
+Effective communication skills to translate complex concepts and analysis into concise, business-focused solutions
+Team-oriented skills and values to facilitate effective collaboration with business and technical partners
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant.

@@ -1,0 +1,39 @@
+
+Careers at Apple
+Work at Apple Life at Apple Profile Sign In Search Jobs at Apple
+Technical Internship: AIML / Software Engineer
+Yokohama, Kanagawa-ken, Japan
+Software and Services
+Add to Favorites Technical Internship: AIML / Software Engineer
+Share Technical Internship: AIML / Software Engineer
+Back to search results
+Summary
+Posted: Oct 14, 2024
+Weekly Hours: 28
+Role Number:200572233
+Apple is where individual imaginations gather together, committing to the values that lead to great work. Every new product we build, service we create, or Apple Store experience we deliver is the result of us making each other’s ideas stronger. That happens because every one of us shares a belief that we can make something wonderful and share it with the world, changing lives for the better. It’s the diversity of our people and their thinking that inspires the innovation that runs through everything we do. When we bring everybody in, we can do the best work of our lives. Here, you’ll do more than join something — you’ll add something.
+Description
+Ever wondered how Siri undergoes testing before being deployed to devices and reaching customers? Our team is responsible for developing and refining software tools that empower our development and QA teams to rigorously test and validate Siri’s functionality. We ensure that both legacy and new features meet high-quality standards before release. As part of this team, you will play a key role in designing and improving these validation tools, while also analyzing test data to drive process optimizations and enhance testing efficiency. Your contributions will directly impact our ability to deliver high-quality software faster and with greater confidence.
+
+* Develop and enhance key software features to improve functionality and performance.
+* Collaborate closely with our internal team and cross-functional teams to drive continuous software improvements.
+* Analyze usage metrics and design software tools to optimize performance and streamline processes.
+* Communicate findings and insights effectively with the team, presenting data-driven solutions.
+* Lead projects from inception to completion, ensuring timely delivery and quality outcomes.
+Minimum Qualifications
+Currently pursuing a Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+Familiarity with at least one programming language (e.g., Python, Go) through coursework, projects, or internships.
+Basic understanding of web development technologies (JavaScript, HTML, CSS) and frameworks like React or Angular.
+Exposure to cloud platforms (e.g., AWS) through academic work or personal projects.
+Basic knowledge of databases (e.g., PostgreSQL, MySQL, or NoSQL databases like Redis or Cassandra).
+Understanding of version control systems (e.g., Git) and containerization tools like Docker.
+Strong problem-solving skills and eagerness to learn new technologies.
+Holding relevant work permit in Japan for the duration of the internship. No immigration support will be available for this internship.
+Preferred Qualifications
+Experience with multiple programming languages (e.g., Python, Go, Swift, Objective-C) through internships, projects, or open-source contributions.
+Practical experience with modern web frameworks such as React, Angular, or Node.js, and solid knowledge of HTML/CSS.
+Hands-on experience using cloud platforms (e.g., AWS) in projects or internships.
+Familiarity with container orchestration tools like Kubernetes and working knowledge of Docker in a development environment.
+Experience working with databases (PostgreSQL, MySQL, or NoSQL options like Redis, Cassandra) in real-world applications.
+Demonstrated problem-solving ability, including debugging and performance optimization.
+Strong communication skills and ability to work effectively within a team.

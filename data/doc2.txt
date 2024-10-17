@@ -1,0 +1,46 @@
+
+Careers at Apple
+Work at Apple Life at Apple Profile Sign In Search Jobs at Apple
+Apple Neural Engine Driver Engineer
+Sunnyvale, California, United States
+Software and Services
+Add to Favorites Apple Neural Engine Driver Engineer
+Share Apple Neural Engine Driver Engineer
+Back to search results
+Summary
+Posted: Oct 15, 2024
+Role Number:200573468
+The Apple Neural Engine is used by thousands of applications to accelerate video analysis, voice recognition, and image processing. Do you want to work on the forefront of ML acceleration?
+
+Our Apple Neural Engine Driver team is looking for an outstanding engineer to drive powerful next-generation technologies, such as Apple Intelligence, for revolutionary Apple products.
+
+Imagine the impact you can make! A billion users will use the technologies you helped craft almost daily.
+
+Are you ready to help us deliver the next groundbreaking Apple products?
+Description
+This is a highly multi-functional product development role, and you will work closely with various teams, like Silicon Design, Product Architecture, QA, Operating System and the ML Frameworks team. The environment is dynamic and requires a self-starter demeanor. 
+
+In this role you will:
+
+-  Develop new Kernel and User space drivers for future products from prototyping phases, through to mass production, while maintaining existing drivers across a whole range of Apple products
+
+-  Develop Neural Engine APIs that clients can leverage and work with client teams on integrating the solution to deliver end-to-end user experiences
+
+-  Actively participate in cross-functional efforts around Neural Engine feature specifications, pre-silicon validation, silicon bring-up, and factory testing
+Minimum Qualifications
+BS and a minimum of 10 years of relevant experience
+Excellent programming skills and knowledge of C/C++
+Excellent debugging and problem solving capabilities
+Driver development experience on Mac OS X, Windows or Linux in Kernel and User space environments
+Preferred Qualifications
+Experience in writing drivers and system software for hardware-accelerated compute engines (e.g. NPU, GPU, etc.)
+Experience in hardware/software co-simulation and pre-silicon validation
+Knowledge of neural networks and their applications
+Good written and oral interpersonal skills
+Pay & Benefits
+At Apple, base pay is one part of our total compensation package and is determined within a range. This provides the opportunity to progress as you grow and develop within a role. The base pay range for this role is between $175,800 and $312,200, and your base pay will depend on your skills, qualifications, experience, and location.
+
+Apple employees also have the opportunity to become an Apple shareholder through participation in Apple’s discretionary employee stock programs. Apple employees are eligible for discretionary restricted stock unit awards, and can purchase Apple stock at a discount if voluntarily participating in Apple’s Employee Stock Purchase Plan. You’ll also receive benefits including: Comprehensive medical and dental coverage, retirement benefits, a range of discounted products and free services, and for formal education related to advancing your career at Apple, reimbursement for certain educational expenses — including tuition. Additionally, this role might be eligible for discretionary bonuses or commission payments as well as relocation. Learn more about Apple Benefits.
+
+Note: Apple benefit, compensation and employee stock programs are subject to eligibility requirements and other terms of the applicable plan or program.
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics. Learn more about your EEO rights as an applicant.
